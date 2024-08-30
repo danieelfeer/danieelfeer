@@ -1,8 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A55CFF&height=120&section=header"/>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp">
 
+<h1>
+    <img align="center" width="35px" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp" />
+    <span>Daniel Fernandes</span>  
+</h1>
+
+<p align=justify>Olá!👋. Sou o Daniel graduando em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília | UCB. Atualmente estou cursando o 3° semestre.</p>
+
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4F4F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋,+My+name+is+Daniel+Fernandes;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+in+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danieelfeer&bg_color=090014&color=fbf8fd&line=c33eff&point=892fc1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+!-->
 
 <!--
 <p align="center">
@@ -10,22 +18,21 @@
 </p>
 !-->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&show_icons=true&count_private=true&hide_border=true&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelfeer&layout=compact&hide_border=true&title_color=F4F4F6&text_color=F4F4F6&bg_color=090014" />
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF&color:FFF)](https://www.linkedin.com/in/dev-daniel-fernandes/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:danielfbodasilva@gmail.com)
+
+
+### GitHub Status
+
+<div align="left">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&show_icons=true&count_private=true&hide_border=true&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelfeer&layout=compact&hide_border=true&title_color=F4F4F6&text_color=F4F4F6&bg_color=090014" />!-->
 </div>
 
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dev-daniel-fernandes/" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-</a> 
-<a href = "mailto:danielfbodasilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-style="border-radius: 30px">
-
- </div> 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danieelfeer&bg_color=090014&color=fbf8fd&line=c33eff&point=892fc1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+!-->
 
  
  ### 👨🏽‍💻 Main skills:
