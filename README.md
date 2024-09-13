@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A55CFF&height=120&section=header"/>
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp">
 
+
 <h1>
     <img align="center" width="35px" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp" />
     <span>Daniel Fernandes</span>  
@@ -18,7 +19,7 @@
 ### GitHub Status
 
 <div align="left">  
-  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
+  <img width="48%" height="160px" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
   <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelfeer&layout=compact&hide_border=true&title_color=F4F4F6&text_color=F4F4F6&bg_color=090014" />!-->
 </div>
 
