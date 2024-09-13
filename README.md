@@ -11,7 +11,6 @@
     </summary>
   </ul>
 </div>
-<hr>
 
 <p align=justify>Hello!👋 I’m Daniel, a student pursuing a degree in Systems Analysis and Development at the Catholic University of Brasília | UCB. I am currently in my 3rd semester.</p>
 
