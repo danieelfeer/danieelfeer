@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A55CFF&height=120&section=header"/>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://cdn141.picsart.com/340778103001211.png?to=crop&type=webp&r=1456x1456&q=85p">
 
 <div id="toc">
   <ul style="list-style: none">
     <summary>
       <h1>
-            <img align="center" width="35px" src="https://www.assoweb.com.br/wp-content/uploads/2017/01/web.png.webp" />
+            <img align="center" width="50px" src="https://cdn141.picsart.com/340778103001211.png?to=crop&type=webp&r=1456x1456&q=85p" />
           Daniel Fernandes
       </h1>
     </summary>
