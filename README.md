@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&&vCenter=true&width=1000&lines=Hi,+I'm+Daniel!👋🏽;I'm+a+Software+Developer+👨🏽‍💻)](https://git.io/typing-svg)
-
 ![Fundo LInkedIn](https://github.com/user-attachments/assets/45f005c1-2518-46f9-bf1b-a6d35bc14d5c)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&&vCenter=true&width=1000&lines=Hi,+I'm+Daniel!👋🏽;I'm+a+Software+Developer+👨🏽‍💻)](https://git.io/typing-svg)
 
 - 💻 I'm a Systems Analysis and Development student.
 - 🌱 Currently studying React Native and NestJS.
