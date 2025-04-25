@@ -14,7 +14,7 @@
 ### GitHub Status
 
 <div align="left">  
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
+  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
   <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelfeer&layout=compact&hide_border=true&title_color=F4F4F6&text_color=F4F4F6&bg_color=090014" />!-->
 </div>
 
